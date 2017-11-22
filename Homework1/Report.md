@@ -1,6 +1,6 @@
 ### Sentiment analyzer
 
-ㅁㄴㅇㄴㅇ
+##  선결연구
 단어 별 강도 점수(측정을 위하여 임의로 분류함. 해당 단어를 포함한 최대한 간단한 문장을 먼저 분석, 그에 따른 신뢰도로 점수 판단.):
 	부정: worst(81), insulting(93), unacceptable(90), stupid(80), outrageous(56), terrible(75), trash(61), awful(85), rude(71), irritating(65) 
 	긍정: good(50), best(58), awesome(69), marvelous(81), perfect(71), master piece(66), classic(63), smooth(79), unique(69), special(54)
